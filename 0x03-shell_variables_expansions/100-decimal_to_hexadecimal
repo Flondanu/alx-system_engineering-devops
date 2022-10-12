@@ -1,5 +1,2 @@
 #!/bin/bash
-
-/tmp/correction/4351512847623151127365794331726494275780_5/209/169492/0x03-shell_variables_expansions/100-decimal_to_hexadecimal doesn't contain ^#!/bin/bash
-
-printf '%x\n' $DECIMAL
+printf '%x\n' $DECIMALL
